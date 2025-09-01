@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/YourUsername/todo-app/main/public/assets/todo-banner.png" alt="Todo App Banner" width="800"/>
 </p>
 
-# 📝 React Todo List App
+<h1 align="center" style="color:#1E90FF;">📝 React Todo List App</h1>
 
 A **modern, responsive Todo List application** built with **React**, **TailwindCSS**, and **GSAP animations**.  
 This app allows users to manage tasks and categories dynamically, with rich features including **color-coded categories, emoji selection, dates, and drag-and-drop task management**.  
