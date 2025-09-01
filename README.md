@@ -40,15 +40,21 @@ This app allows users to manage tasks and categories dynamically, with rich feat
 
 ## 📸 Screenshots
 
-### Desktop View
+### Add Task
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YourUsername/todo-app/main/public/assets/desktop-home.png" alt="Desktop Home" width="700"/>
+  <img src="[https://raw.githubusercontent.com/YourUsername/todo-app/main/public/assets/desktop-home.png](https://github.com/AbdallahOdeh2/TodoList/blob/b0863338e16f1bdd2de642e29c9a35bd9ebc903d/public/github-images/add-task.png)" alt="Desktop Home" width="700"/>
 </p>
 
-### Mobile View
+### Edit Task
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YourUsername/todo-app/main/public/assets/mobile-home.png" alt="Mobile Home" width="300"/>
+  <img src="[https://raw.githubusercontent.com/YourUsername/todo-app/main/public/assets/desktop-home.png](https://github.com/AbdallahOdeh2/TodoList/blob/b0863338e16f1bdd2de642e29c9a35bd9ebc903d/public/github-images/edit-task.png)" alt="Desktop Home" width="700"/>
 </p>
+
+### Edit Category
+<p align="center">
+  <img src="[https://raw.githubusercontent.com/YourUsername/todo-app/main/public/assets/desktop-home.png](https://github.com/AbdallahOdeh2/TodoList/blob/b0863338e16f1bdd2de642e29c9a35bd9ebc903d/public/github-images/edit-category.png)" alt="Desktop Home" width="700"/>
+</p>
+
 
 ---
 
@@ -63,7 +69,7 @@ This app allows users to manage tasks and categories dynamically, with rich feat
 
 ### Mobile Demo
 <video width="300" controls>
-  <source src="https://raw.githubusercontent.com/YourUsername/todo-app/main/public/assets/mobile-demo.mp4" type="video/mp4">
+  <source src="[https://raw.githubusercontent.com/YourUsername/todo-app/main/public/assets/mobile-demo.mp4](https://github.com/AbdallahOdeh2/TodoList/blob/739f73cfc0cd3dcb9aadd87465d055b861201af2/public/github-images/todo-mobile.mp4)" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
