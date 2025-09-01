@@ -72,8 +72,8 @@ This app allows users to manage tasks and categories dynamically, with rich feat
 
 ### Mobile Demo
 <p align="center">
-  <a href="https://github.com/AbdallahOdeh2/TodoList/raw/main/public/github-images/todo-mobile.mp4" target="_blank">
-    <img src="https://github.com/AbdallahOdeh2/TodoList/blob/main/public/github-images/mobile-todo.png?raw=true" alt="Mobile Demo" width="300"/>
+  <a href="https://drive.google.com/file/d/1pj5NNRcX_eogt9PrgrUkb9q1iuHcIPvK/view?usp=sharing" target="_blank">
+    <img src="https://github.com/AbdallahOdeh2/TodoList/blob/main/public/github-images/mobile-todo.jpeg?raw=true" alt="Mobile Demo" width="300"/>
   </a>
 </p>
 
