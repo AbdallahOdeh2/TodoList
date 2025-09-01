@@ -66,14 +66,14 @@ This app allows users to manage tasks and categories dynamically, with rich feat
 ### Desktop Demo
 <p align="center">
   <a href="https://drive.google.com/file/d/1fg7g7ZQujlUKKS-7399fPdaLf7RNmVME/view?usp=sharing" target="_blank">
-    <img src="https://github.com/AbdallahOdeh2/TodoList/blob/main/public/github-images/main-page.png?raw=true" alt="Desktop Demo" width="700"/>
+    <img src="https://github.com/AbdallahOdeh2/TodoList/blob/main/public/github-images/main-page.png?raw=true" alt="Desktop Demo" width="600"/>
   </a>
 </p>
 
 ### Mobile Demo
 <p align="center">
   <a href="https://github.com/AbdallahOdeh2/TodoList/raw/main/public/github-images/todo-mobile.mp4" target="_blank">
-    <img src="https://github.com/AbdallahOdeh2/TodoList/blob/main/public/github-images/add-task.png?raw=true" alt="Mobile Demo" width="300"/>
+    <img src="https://github.com/AbdallahOdeh2/TodoList/blob/main/public/github-images/mobile-todo.png?raw=true" alt="Mobile Demo" width="300"/>
   </a>
 </p>
 
