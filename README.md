@@ -59,20 +59,24 @@ This app allows users to manage tasks and categories dynamically, with rich feat
 
 ---
 
+---
+
 ## 🎥 Demo Video
 
 ### Desktop Demo
-<video width="700" controls>
-  <source src="https://drive.google.com/uc?export=download&id=1fg7g7ZQujlUKKS-7399fPdaLf7RNmVME" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
+<p align="center">
+  <a href="https://drive.google.com/file/d/1fg7g7ZQujlUKKS-7399fPdaLf7RNmVME/view?usp=sharing" target="_blank">
+    <img src="https://github.com/AbdallahOdeh2/TodoList/blob/main/public/github-images/main-page.png?raw=true" alt="Desktop Demo" width="700"/>
+  </a>
+</p>
 
 ### Mobile Demo
-<video width="300" controls>
-  <source src="[https://raw.githubusercontent.com/YourUsername/todo-app/main/public/assets/mobile-demo.mp4](https://github.com/AbdallahOdeh2/TodoList/blob/739f73cfc0cd3dcb9aadd87465d055b861201af2/public/github-images/todo-mobile.mp4)" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<p align="center">
+  <a href="https://github.com/AbdallahOdeh2/TodoList/raw/main/public/github-images/todo-mobile.mp4" target="_blank">
+    <img src="https://github.com/AbdallahOdeh2/TodoList/blob/main/public/github-images/add-task.png?raw=true" alt="Mobile Demo" width="300"/>
+  </a>
+</p>
+
 
 ---
 
