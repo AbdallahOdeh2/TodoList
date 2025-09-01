@@ -42,7 +42,7 @@ This app allows users to manage tasks and categories dynamically, with rich feat
 
 ### Add Task
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/YourUsername/todo-app/main/public/assets/desktop-home.png](https://github.com/AbdallahOdeh2/TodoList/blob/b0863338e16f1bdd2de642e29c9a35bd9ebc903d/public/github-images/add-task.png)" alt="Desktop Home" width="700"/>
+  <img src="(https://github.com/AbdallahOdeh2/TodoList/blob/b0863338e16f1bdd2de642e29c9a35bd9ebc903d/public/github-images/add-task.png)" alt="Desktop Home" width="700"/>
 </p>
 
 ### Edit Task
