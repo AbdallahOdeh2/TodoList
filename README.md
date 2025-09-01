@@ -56,9 +56,10 @@ This app allows users to manage tasks and categories dynamically, with rich feat
 
 ### Desktop Demo
 <video width="700" controls>
-  <source src="https://drive.google.com/file/d/1fg7g7ZQujlUKKS-7399fPdaLf7RNmVME/view?usp=sharing" type="video/mp4">
+  <source src="https://drive.google.com/uc?export=download&id=1fg7g7ZQujlUKKS-7399fPdaLf7RNmVME" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
 
 ### Mobile Demo
 <video width="300" controls>
