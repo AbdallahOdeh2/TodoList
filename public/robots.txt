@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://app-todo17.netlify.app/sitemap.xml

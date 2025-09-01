@@ -1,0 +1,5 @@
+{
+  "appId": "com.abood.todo",
+  "appName": "todo app",
+  "webDir": "dist"
+}
